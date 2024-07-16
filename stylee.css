@@ -1,0 +1,327 @@
+
+body {
+  
+   background-color: rgb(238, 235, 235);
+    min-height: 4000px;
+
+}
+.home {
+  
+  background-size: contain;
+}
+.d-block{
+  border-radius: 20px;
+}
+.home,
+.santri {
+  padding-top: 30rem;
+  padding-bottom: 29rem;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+.nav-link {
+  text-align: right;
+  font-size: 16px;
+  border-radius: 20px;
+
+}
+
+.mynav {
+  backdrop-filter: blur(3px);
+  background-color: rgb(18 18 18 / 50%) !important;
+}
+.b {
+  font-family: "Reem Kufi", sans-serif;
+  font-size: 35px;
+  padding-left: 20px;
+
+}
+.a {
+  color:  rgb(244, 170, 33);
+}
+.home h2 {
+  font-size: 50px;
+padding-left: 9px;
+font-family: "Abril Fatface", serif;
+padding-top: 20px;
+background-color: rgb(244, 170, 33);
+width: 0px;
+margin-left: 33px;
+border-radius: 2px;
+}
+h3 {
+  font-size: 50px;
+  padding-left: 30px;
+ 
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.santri {
+  
+  background: url(assets/img/);
+}
+.rounded {
+  box-shadow: black 7px -5px 16px 1px;
+}
+.gallery {
+  padding-top: 20rem;
+  background: url(assets/img/bck.jpg);
+  margin-top: 70%;
+}
+.gallery span {
+  text-align: center;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: "Reem Kufi", sans-serif;
+  text-align: center;
+  text-shadow: rgb(255, 255, 255) -1px 1px 3px;
+
+}
+.gallery h1,
+.santri h1 {
+  text-shadow: rgb(0, 0, 0) -1px 1px 3px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Sacramento", cursive;
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+.navbar-brand {
+     font-family: "sacramento", cursive;
+}
+.daftar {
+ 
+  background-color: #a6d8de;
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+}
+.info h2,
+.jadwal   ,
+.daftar h1 {
+  justify-content: center;
+  text-align: center;
+  font-family: monospace;
+  padding-top: 5%;
+
+}
+.daftar h4 {
+  justify-content: center;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.daftar table {
+  margin: 0 auto;
+}
+.info .btn {
+color: black;
+}
+.btn {
+background-color: white;
+color:  #a6d8de;
+font-weight: bold;
+}
+
+.jadwal {
+  width: 90%;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.jadwal h1 {
+  text-align: center;
+}
+
+.jadwal table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.jadwal th,
+ .jadwal td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.jadwal th {
+  background-color: #f2f2f2;
+}
+
+.jadwal tr {
+  background-color: #ffffff;
+}
+
+.containers {
+  height: 64rem;
+  color: white;
+ 
+  background-color: #000000;
+  padding: 10rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+footer {
+  background-color: #a6d8de;
+}
+.containerr {
+  padding: 30px;
+}
+.containerr a {
+ text-decoration: none;
+}
+.red {
+  background-color: rgb(255, 141, 141) !important;
+}
+#blu {
+  background-color: #a6d8de;
+  width: 85%;
+  height: 50rem;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#blu h1 {
+  text-align: center;
+}
+
+#blu table {
+  width: 100%;
+  padding-top: 20%;
+
+  border-collapse: collapse;
+ 
+}
+#blu h2 {
+  margin-top: 10%;
+  text-align: center;
+  font-weight: bold;
+  color:  rgb(255, 141, 141);
+  padding-top: 5%;
+ 
+}
+#blu p {
+  margin-top: 5%;
+  font-size: 1.5rem;
+text-align: justify;
+padding: 3%;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+#blu strong {
+  background-color:  rgb(255, 141, 141);
+}
+
+#blu th,
+#blu td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#blu th {
+  background-color: #f2f2f2;
+}
+
+#blu tr {
+  background-color: #ffffff;
+
+}
+.catatan {
+  background-color: rgb(246, 246, 243);
+  
+
+}
+.audio-icon {
+  width: 4rem;
+  height: 4rem;
+  font-size: 4rem;
+  position: fixed;
+  bottom: 15.9rem;
+  right: 2rem;
+  cursor: pointer;
+  color: white;
+  opacity: 0.5;
+  mix-blend-mode: difference;
+  animation: muter 4s linear infinite;
+  transform-origin: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 0;
+
+}
+/* mediaquery */
+/* laptop */
+@media (max-width: 992px) {
+  html {
+      font-size: 75%;
+  }
+  body {
+   
+      background-repeat: no-repeat;
+      background-size: none;
+      background-position-x: center;
+      min-height: 4000px;
+  
+  }
+ 
+  
+}
+/* notebook */
+@media (max-width: 988px) {
+  html {
+      font-size: 65%;
+  }
+ .home {
+    padding-bottom: 29rem;
+  }
+}
+
+/* tablet */
+@media (max-width: 768px) {
+  html {
+      font-size: 65%;
+  }
+ .home {
+    padding-bottom: 29rem;
+  }
+}
+
+/* hp */
+@media (max-width: 576px) {
+  
+  
+  html {
+      font-size: 60%;
+  }
+  
+  .home {
+    padding-bottom: 29rem;
+  }
+  body {
+   
+      background-repeat: no-repeat;
+      background-size: none;
+      background-position-x: center;
+      min-height: 4000px;
+  
+  }
+}
